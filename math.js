@@ -32,3 +32,41 @@ students++;
 console.log(students);
 
 
+// Examples
+let x = 3.14;
+let y = 5;
+let z = 9;
+let maximum;
+let minimum;
+let piExample;
+
+// Pi
+piExample = Math.PI;
+
+
+// Rounding
+x = Math.round(x);
+
+// Rounding down
+x = Math.floor(x);
+
+// Rounding up
+x = Math.ceil(x);
+
+// Raising power ( Exoponent ) ( second number is the pow)
+x = Math.pow(x, 2);
+
+// Square root
+ x = Math.sqrt(x);
+
+ // Absolute value ( distance away from 0 )
+ x = Math.abs(x);
+
+// Maximum
+maximum = Math.max(x, y, z)
+// you will get 9
+
+// Minumum
+minimum = Math.min(x, y, z);
+// you will get 3.14
+
