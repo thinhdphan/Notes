@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(35, 48, 77);
+}
+
+button {
+  background-color: rgb(35, 48, 77);
+  border: solid;
+  border-radius: 6px;
+  color: #ffdada;
+  font-family: arial;
+  font-size: 30px;
+  padding: 30px;
+  margin-right: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #cfcfcf;
+  transition: background-color 1.2s;
+}
+
+#countLabel {
+  font-family: arial;
+  font-size: 30px;
+  color: #ffdada;
+
+}
