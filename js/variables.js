@@ -1,18 +1,20 @@
 // A container for storing data 
-/* A variable behaves as if it was the value that it contains */
+// A variable behaves as if it was the value that it contains 
 // Can store any value in a variable 
 // BE SURE TO USE CamelCase when naming variables
 // Example: firstName , lastName, birthDate, etc.
 
-// Scope 
+// Variable Scope:
 /* Variables within the scope means you can only use the variable that lies within the bracket */
-
 // Global scope 
 /* Variables that are outside of the scope and can be use from anywhere */
 
 // Two steps: 
 // 1. Declaration ( var, let, const) (var is outdated) 
 // 2. Assignment ( = assignment operator) 
+
+// let = limited to block scope {}
+// var = limited to a function(){}
 
 // let variable allows value to be change later 
 let firstName = "Thinh"; // string 
