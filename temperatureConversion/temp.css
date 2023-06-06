@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(87, 128, 189);
+}
+
+label {
+  font-family: arial;
+  font-weight: bold;
+  color:rgb(217, 140, 193);
+}
+
+button{
+  background-color: rgb(217, 140, 193);
+  color: white;
+  border: solid;
+  border-radius: 4px;
+  padding: 6px 20px 6px 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
